@@ -16,3 +16,4 @@ In the upper right corner and in yellow, the number of times we have stopped the
 In the upper left corner and in orange, the current record will be shown.</br>
 If the :soccer: manages to overcome the barrier, a message will appear informing the user that they have lost the game and if they want to start over.
 
+<img src="Media/Toques.png" data-canonical-src="[Media/Toques.png](https://github.com/lzmdev7/MinijuegoToques/blob/530f8916cdc2280a4578d67a78a158070da912b6/Media/Toques.png)" width="200" height="400"/><img src="Media/Toques1.png" data-canonical-src="[Media/Toques1.png](https://github.com/lzmdev7/MinijuegoToques/blob/530f8916cdc2280a4578d67a78a158070da912b6/Media/Toques.png)" width="200" height="400"/><img src="Media/Toques2.png" data-canonical-src="[Media/Toques2.png](https://github.com/lzmdev7/MinijuegoToques/blob/530f8916cdc2280a4578d67a78a158070da912b6/Media/Toques.png)" width="200" height="400"/>
